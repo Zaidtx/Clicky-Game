@@ -1,14 +1,14 @@
-import React from 'react';
-import { BrowserRouter as Router, Rout } from "react-router-dom";
-import Navbar from "./components/Navbar";
-import Content from "./components/Content";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
+import React, { Component } from 'react';
+import Home from './components/Home';
 
-
-import './App.css';
-
-
-
+class App extends Component {
+    render() {
+        return (
+            <div>
+                <Home />
+            </div>
+        );
+    }
+}
 
 export default App;
