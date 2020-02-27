@@ -1,47 +1,48 @@
 [
     {
-        "id": 1,
-        "image": "",
-        "clicked": false
+      "id": 1,
+      "name": "Itachi",
+      "image":
+      "https://images.wallpaperscraft.com/image/naruto_itachi_uchiha_sharingan_face_art_112198_320x240.jpg",
+      "occupation": "Fry Cook",
+      "location": "A Pineapple Under the Sea"
     },
     {
-        "id": 1,
-        "image": "",
-        "clicked": false
+      "id": 2,
+      "name": "Naruto",
+      "image":
+        "https://images.wallpaperscraft.com/image/naruto_naruto_shippuden_bijuu_mode_uzumaki_103300_320x240.jpg",
+        "occupation": "Fry Cook",
+        "location": "A Pineapple Under the Sea"
     },
     {
-        "id": 1,
-        "image": "",
-        "clicked": false
+      "id": 3,
+      "name": "kakshi",
+      "image":
+        "https://images.wallpaperscraft.com/image/naruto_hatake_kakashi_art_105057_320x240.jpg",
+        "occupation": "Fry Cook",
+        "location": "A Pineapple Under the Sea"
     },
+    
     {
-        "id": 1,
-        "image": "",
-        "clicked": false
+      "id": 4,
+      "name": "kakshi",
+      "image":
+        "https://images.wallpaperscraft.com/image/naruto_guy_blond_hand_41753_240x320.jpg",
+        "occupation": "Fry Cook",
+        "location": "A Pineapple Under the Sea"
     },
+
     {
-        "id": 1,
-        "image": "",
-        "clicked": false
-    },
-    {
-        "id": 1,
-        "image": "",
-        "clicked": false
-    },
-    {
-        "id": 1,
-        "image": "",
-        "clicked": false
-    },
-    {
-        "id": 1,
-        "image": "",
-        "clicked": false
-    },
-    {
-        "id": 1,
-        "image": "",
-        "clicked": false
+      "id": 5,
+      "name": "kakshi",
+      "image":
+        "https://images.wallpaperscraft.com/image/naruto_hatake_kakashi_guy_arms_moon_jump_34072_240x320.jpg",
+        "occupation": "Fry Cook",
+        "location": "A Pineapple Under the Sea"
     }
-]
+
+  ]
+  
+
+  
